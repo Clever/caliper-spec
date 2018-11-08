@@ -2988,7 +2988,7 @@ The following [Assessment](#assessment) properties have been DEPRECATED and MUST
 }
 ```
 
-*### <a name="assessmentItem"></a>C.4 AssessmentItem
+### <a name="assessmentItem"></a>C.4 AssessmentItem
 
 A Caliper [AssessmentItem](#assessmentItem) represents a single test question.
 
